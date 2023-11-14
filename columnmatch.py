@@ -1,4 +1,4 @@
-filepath = r"C:\Users\vetle\OneDrive - University of Bergen\mol103,204,210\Rapport\CLUSTAL _multiple sequence_blast1.txt"
+filepath = #path to CLUSTAL _multiple sequence_blast1.txt
 import re
 pattern = re.compile(r'^[A-Z0-9]{4}_[A-Z0-9]')
 row = 0
