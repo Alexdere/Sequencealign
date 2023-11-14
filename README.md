@@ -1,2 +1,2 @@
 # Sequencealign
-pairwise_seqalign is quite messy atm
+pairwise_graphical is quite messy atm
