@@ -35,8 +35,7 @@ sequence1 = "GATTACA"
 sequence2 = "GCATGCT"
 
 from uib_inf100_graphics.simple import canvas, display
-x = 0
-highscore = [0]
+
 def draw_board(canvas, x1, y1, x2, y2, matrix2):
 
     rows = len(matrix2)
